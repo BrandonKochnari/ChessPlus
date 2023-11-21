@@ -1,0 +1,4 @@
+# ChessPlus
+Chess+ is a unique variant to the original popular chess game, with the addition of hp and attack stats as well as special abilities for each piece. Currently this game is being developed on Unity Engine, however, here's the progress made so far on PyCharm (only local). Download all assets and files to properly run the game. Enjoy!
+
+Start the game off by allocating a limited amount of points to any piece of your choosing. These points can bolster up your pieces' attack and hp stats. As you play the game, your special gauge will automatically increase through loss of pieces. Once your special gauge reaches each piece's special cost, you may activate it and take an advantageous position against your opponent. Ensure to spend your points and special ability wisely as you have limited resources to conquer your opponent!
