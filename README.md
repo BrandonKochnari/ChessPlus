@@ -53,31 +53,31 @@ pip install pygame
    ```bash
    python Chess.py
 3. Controls:
-  • Mouse → select and move pieces.
-  • P → pause music.
-  • R → resume music.
-  • Spacebar → activate special abilities.
+  • Mouse → select and move pieces.  
+  • P → pause music.  
+  • R → resume music.  
+  • Spacebar → activate special abilities.  
 
 ## 🕹️ Example Gameplay
 
-• Openings feel familiar: pawns advance, knights hop forward.
-• A Rook under attack may activate Indomitability to block threats.
-• A Bishop heals a wounded Queen mid-match.
-• Queens buff armies, creating high-stakes showdowns.
-• Games can end by checkmate or when the timer expires.
+• Openings feel familiar: pawns advance, knights hop forward.  
+• A Rook under attack may activate Indomitability to block threats.  
+• A Bishop heals a wounded Queen mid-match.  
+• Queens buff armies, creating high-stakes showdowns.  
+• Games can end by checkmate (taking out all hitpoints of the King) or when the timer expires.  
 
 ## 📂 Project Structure
 
-• Chess.py → Main loop, state handling, and rendering.
-• ChessPiece.py → Piece classes with stats and special abilities.
-• GameBoard.py → Board state, observation system, attack counters.
-• MainMenu.py → Menu, options, and button rendering.
-• assets/ → Piece sprites, background images, UI elements, sound.
+• Chess.py → Main loop, state handling, and rendering.  
+• ChessPiece.py → Piece classes with stats and special abilities.  
+• GameBoard.py → Board state, observation system, attack counters.  
+• MainMenu.py → Menu, options, and button rendering.  
+• assets/ → Piece sprites, background images, UI elements, sound.  
 
 ## 🔮 Future Improvements
 
-• AI opponent with adaptive strategy.
-• Online multiplayer support.
-• Expanded abilities and status effects.
-• Addition of animations to taking, abilities, movement etc...
-• Save/load system for loacal matches.
+• AI opponent with adaptive strategy.  
+• Online multiplayer support.  
+• Expanded abilities and status effects.  
+• Addition of animations to taking, abilities, movement etc...  
+• Save/load system for loacal matches.  
