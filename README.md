@@ -76,6 +76,7 @@ pip install pygame
 
 ## 🔮 Future Improvements
 
+• Finalize transition to Unity Engine (C#)
 • AI opponent with adaptive strategy.  
 • Online multiplayer support.  
 • Expanded abilities and status effects.  
